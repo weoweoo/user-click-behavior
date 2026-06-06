@@ -1,7 +1,3 @@
-Name of Student: Habsa Binte Obaiyed
-Student ID: 2230699
-Module: SWE6204 - Machine Learning
-
 # Project Summary
 This project sought to develop a supervised classification model to forecast whether a product will be clicked in an e-commerce environment based on user, product, and session attributes. With a dataset having attributes like category, product_type, item_price, app_code, and device-related variables, various machine learning models were trained and tested, such as Logistic Regression, Decision Tree, Random Forest, and SVM.
 
